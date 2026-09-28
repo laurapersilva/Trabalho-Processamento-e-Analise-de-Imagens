@@ -1,1 +1,1 @@
-# Trabalho-Processamento-e-An-lise-de-Imagens
+# Trabalho-Processamento-e-Analise-de-Imagens
